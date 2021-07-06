@@ -7,7 +7,9 @@ const Home = () => (
     <Head>
       <title>NodeBird</title>
     </Head>
-    <div>Hello, Next!</div>
+    <div>Hello, Nregeragerageragreageargeateterteraterterterat
+      eratertreatertert
+      erteatearteatext!</div>
   </AppLayout>
 );
 
