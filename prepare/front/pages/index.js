@@ -10,7 +10,7 @@ const Home = () => (
     <div>Hello, Nregeragerageragreageargeateterteraterterterat
       eratertreatertert
       erteatearteatextrtharhrthrtahtrahrah
-      rthhtrhrta
+      rthhtrhrteargerageraga
       3번째 트라이입니다</div>
   </AppLayout>
 );
